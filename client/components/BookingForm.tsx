@@ -235,7 +235,7 @@ export function BookingForm({ destinationName, onSuccess, showWhyTravelSection =
 
 Looking forward to hearing from you!`;
 
-    const whatsappUrl = `https://wa.me/919449695251?text=${encodeURIComponent(message)}`;
+    const whatsappUrl = `https://wa.me/918125569195?text=${encodeURIComponent(message)}`;
 
     // Open WhatsApp
     window.open(whatsappUrl, "_blank");

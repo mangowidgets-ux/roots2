@@ -137,7 +137,7 @@ export function BookingModal({ isOpen, onClose, destinationName }: BookingModalP
                       href="tel:+919449695251"
                       className="text-base font-bold hover:text-[#d4a853] transition-colors"
                     >
-                      +91 9449695251
+                      +91 8125569195
                     </a>
                   </div>
                 </div>
@@ -162,7 +162,7 @@ export function BookingModal({ isOpen, onClose, destinationName }: BookingModalP
                   <div>
                     <p className="text-[12px] text-white/70 mb-1">WhatsApp</p>
                     <a
-                      href="https://wa.me/919449695251?text=Hi%20Roots2%20Travel"
+                      href="https://wa.me/918125569195?text=Hi%20Roots2%20Travel"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-base font-bold hover:text-[#d4a853] transition-colors"

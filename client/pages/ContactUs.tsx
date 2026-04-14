@@ -36,7 +36,7 @@ export default function ContactUs() {
               <div className="flex flex-col gap-6 justify-start items-start">
                 {/* WhatsApp */}
                 <a
-                  href="https://wa.me/919449695251?text=Hi%20Roots2!%20I%20want%20to%20plan%20a%20trip"
+                  href="https://wa.me/918125569195?text=Hi%20Roots2!%20I%20want%20to%20plan%20a%20trip"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-center gap-4 p-4 rounded-lg hover:bg-white/10 transition-colors group"

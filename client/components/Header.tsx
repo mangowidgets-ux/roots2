@@ -55,7 +55,7 @@ export function Header() {
     navigate("/#getting-here");
   };
 
-  const whatsappLink = "https://wa.me/919449695251?text=Hi%20Roots2%20Travel";
+  const whatsappLink = "https://wa.me/918125569195?text=Hi%20Roots2%20Travel";
 
   // Route-specific header visibility logic
   const isHomePage = location.pathname === "/";
